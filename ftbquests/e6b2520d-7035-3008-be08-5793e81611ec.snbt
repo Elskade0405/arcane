@@ -1,0 +1,13 @@
+{
+	version: 1
+	uuid: "e6b2520d70353008be085793e81611ec"
+	name: "Hope_Ark"
+	can_edit: false
+	lock: false
+	auto_pin: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	pinned_quests: [ ]
+}

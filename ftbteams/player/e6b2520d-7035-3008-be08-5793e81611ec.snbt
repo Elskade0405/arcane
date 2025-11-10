@@ -1,0 +1,16 @@
+{
+	id: "e6b2520d-7035-3008-be08-5793e81611ec"
+	type: "player"
+	player_name: "Hope_Ark"
+	ranks: {
+		e6b2520d-7035-3008-be08-5793e81611ec: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Hope_Ark"
+		"ftbteams:color": "#59FF73"
+		"ftbteams:description": ""
+		"ftbteams:free_to_join": 0b
+	}
+	message_history: [ ]
+	extra: { }
+}

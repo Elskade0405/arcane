@@ -1,0 +1,13 @@
+{
+	version: 1
+	uuid: "5381fa71f7b9461a913ce04caeb50bba"
+	name: "Elskade"
+	can_edit: false
+	lock: false
+	auto_pin: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	pinned_quests: [ ]
+}

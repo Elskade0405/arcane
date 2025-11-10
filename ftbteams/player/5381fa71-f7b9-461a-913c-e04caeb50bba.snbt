@@ -1,0 +1,16 @@
+{
+	id: "5381fa71-f7b9-461a-913c-e04caeb50bba"
+	type: "player"
+	player_name: "Elskade"
+	ranks: {
+		5381fa71-f7b9-461a-913c-e04caeb50bba: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Elskade"
+		"ftbteams:color": "#E259FF"
+		"ftbteams:description": ""
+		"ftbteams:free_to_join": 0b
+	}
+	message_history: [ ]
+	extra: { }
+}

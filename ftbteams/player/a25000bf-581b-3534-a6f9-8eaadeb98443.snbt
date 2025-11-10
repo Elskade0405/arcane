@@ -1,0 +1,16 @@
+{
+	id: "a25000bf-581b-3534-a6f9-8eaadeb98443"
+	type: "player"
+	player_name: "giomom"
+	ranks: {
+		a25000bf-581b-3534-a6f9-8eaadeb98443: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "giomom"
+		"ftbteams:color": "#FFD659"
+		"ftbteams:description": ""
+		"ftbteams:free_to_join": 0b
+	}
+	message_history: [ ]
+	extra: { }
+}
